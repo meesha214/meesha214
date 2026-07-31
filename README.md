@@ -33,6 +33,6 @@ Dashboard for reporting and analyzing workplace safety incidents.
 
 ## Connect
 
-- LinkedIn: <your-linkhttps://www.linkedin.com/in/meeshaagwl>
+- LinkedIn: <https://www.linkedin.com/in/meeshaagwl>
 - Email: <meesha21405@gmail.com>
 - Leetcode: <https://leetcode.com/u/meeshaa/>
