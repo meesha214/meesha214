@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Meesha 👋
 
-<!--
-**meesha214/meesha214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Interested in Software Development, Web Development and Problem Solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Java
+- C
+- JavaScript
+- React
+- Vite
+- Supabase
+- HTML
+- CSS
+- Git
+- SQL
+
+## Featured Projects
+
+### 🏠 Hostel Issue Management System
+Hackathon project built using React and Supabase.
+
+### ⚠️ Near-Miss Safety Dashboard
+Dashboard for reporting and analyzing workplace safety incidents.
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Full Stack Development
+- Backend Development
+
+## Connect
+
+- LinkedIn: <your-linkhttps://www.linkedin.com/in/meeshaagwl>
+- Email: <meesha21405@gmail.com>
+- Leetcode: <https://leetcode.com/u/meeshaa/>
